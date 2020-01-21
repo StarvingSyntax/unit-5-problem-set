@@ -19,7 +19,9 @@
 What are three different `document` methods that you could use to select the `a` element and store it into a variable?
 
   const getAnchorTags = document.querySelectorAll("a");
+  
   const getAnchorID = document.getElementById("about");
+  
   const getAnchorClass = document.getElementsByClassName("primary");
 
 5. Assuming we have the following code in an HTML file. Describe what the JavaScript code is doing. What would happen when we submit the form?
